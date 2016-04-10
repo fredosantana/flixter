@@ -1,3 +1,17 @@
 h1 {
 	font-family: 'langdonregular';
 }
+
+.navbar {
+	border-radius: 0;
+	font-family: "Helvetica Neue", Helvetica;
+  	font-weight: 200;
+  	box-shadow: 0px 1px 3px #2a2a2a;
+  	background: url('green_dust_scratch.png');
+}
+
+.navbar-inverse a.navbar-brand {
+	font-family: 'langdonregular', 'Helvitica', sans-serif;
+	font-weight: 100;
+	font-size: 36px;
+}
