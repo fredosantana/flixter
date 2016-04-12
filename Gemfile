@@ -56,3 +56,6 @@ gem 'devise'
 
 #Simpleform 
 gem 'simple_form'
+
+#Carrierwave
+gem 'carrierwave'
