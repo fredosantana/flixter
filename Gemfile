@@ -71,3 +71,6 @@ gem 'mini_magick', '~> 4.3.1'
 
 #Carrierwave-AWS
 gem 'carrierwave-aws'
+
+#Stripe
+gem 'stripe'
