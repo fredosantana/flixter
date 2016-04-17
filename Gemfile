@@ -74,3 +74,6 @@ gem 'carrierwave-aws'
 
 #Stripe
 gem 'stripe'
+
+#Ranked-model
+gem 'ranked-model'
